@@ -7,6 +7,34 @@ CV and portfolio for Martin H. Skjelvareid
 ## Education
 - Example
 
+
+## Teaching experience
+
+### TEK-1504 Physics
+- **Time**: 2022-2025
+- **Role**: Local teacher (in Bodø)
+- **Links**:
+  - [UiT course page](https://uit.no/utdanning/aktivt/emne/TEK-1504)
+
+### DTE-2602 Introduction to machine learning and AI
+- **Time**: 2022-2024
+- **Role**: Teacher (mostly online)
+- **Links**:
+  - [UiT course page](https://uit.no/utdanning/aktivt/emne/DTE-2602)
+
+### TEK-2801 Physics 2
+- **Time**: 2022-2024
+- **Role**: Local teacher (in Bodø)
+- **Links**:
+  - [UiT course page](https://uit.no/utdanning/aktivt/emne/TEK-2801)
+
+### TEK-0513 Physics (introductory course for engineering studies)
+- **Time**: 2018-2022
+- **Role**: Teacher
+- **Links**:
+  - [UiT course page](https://uit.no/utdanning/aktivt/emne/TEK-0513)
+
+
 ## Projects
 
 ### Mapping of Algae and Seagrass using Spectral Imaging and Machine Learning (MASSIMAL)
