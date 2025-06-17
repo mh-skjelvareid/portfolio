@@ -1,82 +1,99 @@
-# portfolio
-CV and portfolio for Martin H. Skjelvareid
+<!-- # portfolio
+CV and portfolio for Martin H. Skjelvareid -->
 
 ## Work experience
-- Example
+**Associate professor at UiT The Arctic University of Norway (2018-2025)**
+- Teaching physics, programming, and machine learning at bachelor level. 
+- Principal investigator on the MASSIMAL project: "Mapping Algae and Seagrass using Spectral Imaging and Machine Learning" (8,6 million NOK, funded by Norwegian Research Council and UiT). The project uses UAV hyperspectral imaging for mapping coastal underwater habitats and vegetation.
+
+
+**Researcher at Nofima AS (2013-2018)**
+- Working at department of Seafood Quality and Processing
+- Development of hyperspectral imaging methods for seafood quality measurement, acoustic methods for seafood processing, and acoustic methods for conditioning of fish behavior.
+
+**PhD student / developer at Breivoll Inspection Technologies (2008-2013)**
+- "Industrial PhD" from 2008 to 2012
+- Development of signal processing algorithms for synthetic aperture ultrasound imaging, ultrasonic pipe thickness estimation, and acoustic leak detection.
+
 
 ## Education
-- Example
+**PhD in physics from UiT the Arctic University of Norway**
+- Industrial PhD project, studying the use of synthetic aperture focusing on ultrasound measurements performed inside pipes. 
+- Collaboration between UiT the Arctic University of Norway and Breivoll Inspection Technologies.
+- [PhD thesis](https://hdl.handle.net/10037/4649)
+
+**Master of science from Norwegian University of Science and Technology (2002-2008)**
+- Specialization in signal processing and acoustics. 
+- Master's thesis on adaptive filtering of acoustic crosstalk.
 
 
 ## Teaching experience
 
-### TEK-1504 Physics
-- **Time**: 2022-2025
-- **Role**: Local teacher (in Bodø)
-- **Links**:
-  - [UiT course page](https://uit.no/utdanning/aktivt/emne/TEK-1504)
+**TEK-1504 Physics**
+- Time: 2022-2025
+- Role: Local teacher (in Bodø)
+- [UiT course page](https://uit.no/utdanning/aktivt/emne/TEK-1504)
 
-### DTE-2602 Introduction to machine learning and AI
-- **Time**: 2022-2024
-- **Role**: Teacher (mostly online)
-- **Links**:
-  - [UiT course page](https://uit.no/utdanning/aktivt/emne/DTE-2602)
+**DTE-2602 Introduction to machine learning and AI**
+- Time: 2022-2024
+- Role: Teacher (mostly online)
+- [UiT course page](https://uit.no/utdanning/aktivt/emne/DTE-2602)
 
-### TEK-2801 Physics 2
-- **Time**: 2022-2024
-- **Role**: Local teacher (in Bodø)
-- **Links**:
-  - [UiT course page](https://uit.no/utdanning/aktivt/emne/TEK-2801)
+**TEK-2801 Physics 2**
+- Time: 2022-2024
+- Role: Local teacher (in Bodø)
+- [UiT course page](https://uit.no/utdanning/aktivt/emne/TEK-2801)
 
-### TEK-0513 Physics (introductory course for engineering studies)
-- **Time**: 2018-2022
-- **Role**: Teacher
-- **Links**:
-  - [UiT course page](https://uit.no/utdanning/aktivt/emne/TEK-0513)
+**TEK-0513 Physics (introductory course for engineering studies)**
+- Time: 2018-2022
+- Role: Teacher
+- [UiT course page](https://uit.no/utdanning/aktivt/emne/TEK-0513)
 
 
 ## Projects
 
-### Mapping of Algae and Seagrass using Spectral Imaging and Machine Learning (MASSIMAL)
-- **Role**: Project leader
-- **Project period**: 2020 - 2024
-- **Financing**: 8 595 000 NOK
-- **Organizations**: UiT the Arctic University of Norway, Norwegian Institute for Water Research, Nord University
-- **Links**:
+**Mapping of Algae and Seagrass using Spectral Imaging and Machine Learning (MASSIMAL)**
+- Role: Project leader
+- Project period: 2020 - 2024
+- Financing: 8 595 000 NOK
+- Organizations: UiT the Arctic University of Norway, Norwegian Institute for Water Research, Nord University
+- Links:
   - [NRC project page](https://prosjektbanken.forskningsradet.no/project/FORISS/301317)
   - [Cristin research database project page](https://app.cristin.no/projects/show.jsf?id=2054355)
 
-### Automatic quality control of internal defects in codfish fillets (QCod)
-- **Role**: Researcher
-- **Project period**: 2016 - 2017
-- **Financing**: 2 923 000 NOK
-- **Organizations**: Nofima AS, Marel Norge AS, Lerøy Norway Seafoods AS
-- **Links**:
+
+**Automatic quality control of internal defects in codfish fillets (QCod)**
+- Role: Researcher
+- Project period: 2016 - 2017
+- Financing: 2 923 000 NOK
+- Organizations: Nofima AS, Marel Norge AS, Lerøy Norway Seafoods AS
+- Links:
   - [FHF project page](https://www.fhf.no/prosjekter/prosjektbasen/901246) 
 
-### Ultralyd mot lakselus: Kontrollert testing av påslag på laks i kar
-- **English title**: Ultrasound against salmon lice: Controlled testing of infection of salmon in tanks
-- **Role**: Researcher
-- **Project period**: 2015 - 2016
-- **Financing**: 802 000 NOK
-- **Organizations**: Nofima AS
-- **Links**:
+
+**Ultralyd mot lakselus: Kontrollert testing av påslag på laks i kar**
+- English title: Ultrasound against salmon lice: Controlled testing of infection of salmon in tanks
+- Role: Researcher
+- Project period: 2015 - 2016
+- Financing: 802 000 NOK
+- Organizations: Nofima AS
+- Links:
   - [FHF project page](https://www.fhf.no/prosjekter/prosjektbasen/901187)
  
-### Høy-intensitets fokusert ultralyd (HIFU) anvendt på fisk: En studie av effekten på ulike vevstyper
-- **English title**: High-intensity focused ultrasound (HIFU) applied to fish: A study of the effect on different tissus types 
-- **Role**: Project leader
-- **Project period**: 2015
-- **Financing**: 605 000 NOK
-- **Organizations**: Nofima AS
-- **Links**:
+**Høy-intensitets fokusert ultralyd (HIFU) anvendt på fisk: En studie av effekten på ulike vevstyper**
+- English title: High-intensity focused ultrasound (HIFU) applied to fish: A study of the effect on different tissue types 
+- Role: Project leader
+- Project period: 2015
+- Financing: 605 000 NOK
+- Organizations: Nofima AS
+- Links:
   - [FHF project page](https://www.fhf.no/prosjekter/prosjektbasen/901125)
  
-### Kvalitetsmåling på fersk fisk
-- **English title**: Quality measurements of fresh fish
-- **Role**: Researcher
-- **Project period**: 2014-2016
-- **Financing**: 4 500 000 NOK
-- **Organizations**: Nofima AS, Norway Seafoods, Cermaq, Norsk Elektrooptikk
-- **Links**:
+**Kvalitetsmåling på fersk fisk**
+- English title: Quality measurements of fresh fish
+- Role: Researcher
+- Project period: 2014-2016
+- Financing: 4 500 000 NOK
+- Organizations: Nofima AS, Norway Seafoods, Cermaq, Norsk Elektrooptikk
+- Links:
   - [Nofima project page](https://nofima.no/prosjekt/kvalitetsmaling-pa-fersk-fisk/)
